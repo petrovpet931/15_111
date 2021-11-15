@@ -4,6 +4,7 @@
       "name": "Mechanik",
       "sections": [
         {
+          "continent": "Europe",
           "country": "Frankreich",
           "capital": "Paris",
           "bool": "wahr"
@@ -11,9 +12,11 @@
         {
           "continent": "Asien",
           "country": "China",
+          "capital": "Beijing",
           "bool": "falsch"
         },
         {
+          "continent": "Africa",
           "country": "Südafrika",
           "capital": "Kapstadt"
         }
