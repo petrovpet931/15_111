@@ -6,7 +6,6 @@
         {
           "continent": "Europe",
           "country": "Frankreich",
-          "city": "Hallo",
           "capital": "Paris",
           "bool": "wahr"
         },
